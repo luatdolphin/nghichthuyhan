@@ -101,6 +101,9 @@ a:hover, a:focus {
 }
 
 /* Demo Buttons Style */
+.post-header {
+	display: none;
+}
 .owl-carousel.owl-loaded {
 	display: none;
 }
