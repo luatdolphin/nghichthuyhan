@@ -101,6 +101,8 @@ a:hover, a:focus {
 }
 
 /* Demo Buttons Style */
+.post-feature-image-wrapper img{
+	display:none;}
 .codrops-demos {
 	padding-top: 1em;
 	font-size: 0.8em;
